@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {
+    "karma": "1.5.0",
+    "gulp": "3.9.1",
+    "gulp-shell": "0.6.1",
+    "jasmine-core": "2.5.2",
+    "karma-jasmine": "1.1.0",
+    "karma-phantomjs-launcher": "1.0.2",
+    "karma-html-detailed-reporter": "1.1.18",
+    "phantomjs-bin": "2.1.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "BowlingGameJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "karma": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "2.5.3",
+    "jasmine-core": "2.5.2",
+    "karma": "1.5.0",
+    "karma-jasmine": "1.1.0",
+    "karma-phantomjs-launcher": "1.0.4",
+    "karma-html-detailed-reporter": "1.1.19",
+    "karma-mocha-reporter": "2.2.2",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-coverage": "1.1.1",
+    "phantomjs-prebuilt": "2.1.14"
+  }
+}

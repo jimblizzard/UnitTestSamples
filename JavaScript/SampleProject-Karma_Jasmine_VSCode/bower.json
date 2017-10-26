@@ -1,0 +1,23 @@
+{
+  "name": "SampleProject",
+  "description": "A sample project to demonstrate how to use Karma & Jasmine with Visual Studio Code.",
+  "main": "default.html",
+  "license": "MIT",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "angular": "angularjs#~1.4.8",
+    "angular-mocks": "~1.4.8"
+  }
+}
